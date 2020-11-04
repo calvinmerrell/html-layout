@@ -1,0 +1,23 @@
+body    {
+    background-color: #444444;
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    height: 15vh;
+}
+.middle-box {
+    margin: auto;
+    background-color: white;
+    width: 80vw;
+    height: 70vh;    
+}
+.bottom-box {
+    margin: auto;
+    background-color: black;
+    width: 80vw;
+    height:15vh;    
+} 
